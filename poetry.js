@@ -120,6 +120,10 @@ export const DATA = {
       {
         sentence:"如何打赢一场战争？加入一场已经胜利的战争。",
         name:"网友"
+      },
+      {
+        sentence:"所有命运赠送的礼物，早已暗中标价。",
+        name:"茨威格"
       }
       // {
       //   sentence:`
