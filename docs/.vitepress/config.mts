@@ -95,6 +95,10 @@ export default defineConfig({
           text:"年",
           link:"/person/years/index"
         },
+        {
+          text:"交谈总结",
+          link:"/person/index"
+        },
         // {
         //   text:'实事',
         //   link:"/person/social/index"
