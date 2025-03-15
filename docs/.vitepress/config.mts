@@ -97,7 +97,7 @@ export default defineConfig({
         },
         {
           text:"交谈总结",
-          link:"/person/index"
+          link:"/person/talk/index"
         },
         // {
         //   text:'实事',
