@@ -99,12 +99,16 @@ export default defineConfig({
           text:"交谈总结",
           link:"/person/talk/index"
         },
+        {
+          text:"场景",
+          link:"/person/scene/index"
+        },
         // {
         //   text:'实事',
         //   link:"/person/social/index"
         // },
         {
-          text:"愚者的图书馆",
+          text:"图书馆",
           link:"/person/skill/index"
         }
       ],
