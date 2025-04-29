@@ -80,6 +80,10 @@ export default defineConfig({
           link: "/person/wealth/index"
         },
         {
+          text:"如何正确看待财富",
+          link:"/person/true-wealth/index"
+        },
+        {
           text: "穷与富",
           link: "/person/poor-and-rich/index"
         },
