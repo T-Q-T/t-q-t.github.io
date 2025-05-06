@@ -123,6 +123,10 @@ export const DATA = {
       },
       {
         sentence:"批判时总显得聪明，就像创造时总显得笨拙。"
+      },
+      {
+        sentence:"鱼分为浅游鱼和深游鱼，浅游鱼一辈子都只会在浅滩上徘徊。",
+        name:"b 站某 up"
       }
     ],
     zhuangzi: [
