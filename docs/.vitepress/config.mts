@@ -91,14 +91,14 @@ export default defineConfig({
           text: "关于经济",
           link: "/person/money/index"
         },
-        {
-          text: "生活趣事",
-          link: "/person/funny/index"
-        },
-        {
-          text:"年",
-          link:"/person/years/index"
-        },
+        // {
+        //   text: "生活趣事",
+        //   link: "/person/funny/index"
+        // },
+        // {
+        //   text:"年",
+        //   link:"/person/years/index"
+        // },
         {
           text:"交谈总结",
           link:"/person/talk/index"
