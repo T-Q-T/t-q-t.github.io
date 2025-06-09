@@ -127,6 +127,8 @@ export const DATA = {
       {
         sentence:"鱼分为浅游鱼和深游鱼，浅游鱼一辈子都只会在浅滩上徘徊。",
         name:"b 站某 up"
+      },{
+        sentence:"胶片是时间回传的礼物",
       }
     ],
     zhuangzi: [
