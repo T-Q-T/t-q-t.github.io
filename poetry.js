@@ -129,6 +129,9 @@ export const DATA = {
         name:"b 站某 up"
       },{
         sentence:"胶片是时间回传的礼物",
+      },{
+        sentence:"平静的海面，练不出精悍的水手。",
+        name:"老舍"
       }
     ],
     zhuangzi: [
